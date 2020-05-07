@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest\\cicdtest.csproj": {}
+    "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest\\cicdtest.csproj": {
+    "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest\\cicdtest.csproj",
+        "projectUniqueName": "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest.csproj",
         "projectName": "cicdtest",
-        "projectPath": "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest\\cicdtest.csproj",
+        "projectPath": "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest.csproj",
         "packagesPath": "C:\\Users\\Elham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\cicdtest\\obj\\",
+        "outputPath": "C:\\Users\\Elham\\source\\Workspaces\\cicdtest\\cicdtest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elham\\AppData\\Roaming\\NuGet\\NuGet.Config",
